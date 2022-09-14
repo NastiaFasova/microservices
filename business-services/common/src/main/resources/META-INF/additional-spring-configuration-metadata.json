@@ -1,0 +1,23 @@
+{
+  "properties": [
+    {
+      "name": "baeldung.archaius.properties.one",
+      "type": "java.lang.String",
+      "description": "Description for baeldung.archaius.properties.one."
+    },
+    {
+      "name": "baeldung.archaius.properties.two",
+      "type": "java.lang.String",
+      "description": "Description for baeldung.archaius.properties.two."
+    },
+    {
+      "name": "baeldung.archaius.properties.three",
+      "type": "java.lang.String",
+      "description": "Description for baeldung.archaius.properties.three."
+    },
+    {
+      "name": "baeldung.archaius.properties.four",
+      "type": "java.lang.String",
+      "description": "Description for baeldung.archaius.properties.four."
+    }
+  ] }

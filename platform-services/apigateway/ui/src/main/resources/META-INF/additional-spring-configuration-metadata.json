@@ -1,0 +1,8 @@
+{
+  "properties": [
+    {
+      "name": "zuul.SendErrorFilter.post.disable",
+      "type": "java.lang.String",
+      "description": "Description for zuul.SendErrorFilter.post.disable."
+  }
+] }
